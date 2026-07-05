@@ -9,6 +9,15 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
 Development Team
 Student Name:Carl Kenneth G. Manlangit
 Course:BSIT SD 
