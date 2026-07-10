@@ -23,3 +23,5 @@ Development Team
 Student Name:Carl Kenneth G. Manlangit
 Course:BSIT SD 
 Section:2C
+
+_Last updated during GitHub Actions laboratory._
