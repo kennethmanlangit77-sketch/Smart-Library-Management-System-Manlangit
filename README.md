@@ -10,6 +10,7 @@ Project Modules
 - Book Returning
 - Inventory Management 
 - Reports
+- accounts
 
 Member Management Module
 
