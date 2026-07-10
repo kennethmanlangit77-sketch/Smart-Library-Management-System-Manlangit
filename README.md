@@ -24,3 +24,10 @@ Development Team
 Student Name:Carl Kenneth G. Manlangit
 Course:BSIT SD 
 Section:2C
+
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
