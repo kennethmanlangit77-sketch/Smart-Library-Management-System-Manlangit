@@ -19,6 +19,14 @@ Features
 - Delete Member Record
 - Search Member
 
+Contributor Update
+
+Contributor Name: Ayyash Jay Badoy
+
+Feature Added:
+- Digital Library Dashboard
+
+
 Development Team
 Student Name:Carl Kenneth G. Manlangit
 Course:BSIT SD 
